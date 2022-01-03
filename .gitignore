@@ -1,3 +1,8 @@
 .ipynb_checkpoints
 .git
 data/
+PapaGraph/
+homework*
+*.pdf
+*.obj
+*.png
